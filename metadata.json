@@ -1,0 +1,6 @@
+{
+  "name": "DistriMath Grade 4",
+  "description": "Interactive Grade 4 Distributive Property math worksheet generator with visual area models, step-by-step practice, and printable sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
